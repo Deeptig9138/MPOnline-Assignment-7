@@ -73,25 +73,6 @@ This repository contains a professional, production-quality implementation of **
 
 ---
 
-## 🖼️ Visual Results
-
-### Elbow Curve
-![Elbow Curve](elbow_curve.png)
-
-### Correlation Heatmap
-![Correlation Heatmap](correlation_heatmap.png)
-
-### Customer Clusters (Income vs Spending)
-![Customer Clusters](customer_clusters.png)
-
-### PCA Cluster Visualization (2D Space)
-![PCA Clusters](pca_clusters.png)
-
-### PCA Explained Variance
-![Explained Variance](explained_variance.png)
-
----
-
 ## 👥 Customer Segments
 
 | Cluster Name | Customer Count | Average Income | Average Spending Score | Business Strategy |
